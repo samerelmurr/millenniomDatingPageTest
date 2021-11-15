@@ -1,0 +1,22 @@
+.header{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    background-color: #FF78E1;
+    border-bottom: 2px solid #8a307f;
+}
+
+.millenniom-logo{
+    object-fit: contain;
+    height: 50px;
+}
+
+.PersonIcon{
+    color: white;
+}
+
+.ForumnIcon{
+    color: white;
+}
